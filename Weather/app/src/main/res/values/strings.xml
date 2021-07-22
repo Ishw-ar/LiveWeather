@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live Weather Forecast</string>
+    <string name="splash_screen_title">Live Weather</string>
+</resources>
